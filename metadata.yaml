@@ -1,0 +1,38 @@
+_repo: Socrates_4683
+_version: 0.0.1
+alternative_title: Socrate. English
+contributor:
+  translator:
+    agent_name: Morlock, Frank J.
+    gutenberg_agent_id: '1532'
+    url: http://www.gutenberg.org/2009/agents/1532
+creator:
+  author:
+    agent_name: Voltaire
+    aliases:
+    - Arouet, François Marie
+    - Arouet, Francois Marie
+    birthdate: 1694
+    deathdate: 1778
+    gutenberg_agent_id: '913'
+    url: http://www.gutenberg.org/2009/agents/913
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Voltaire
+    - http://en.wikipedia.org/wiki/Voltaire
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4683'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Socrates -- Drama'
+- !lcsh 'Tragedies'
+- !lcc 'PQ'
+- !lcsh 'French drama -- 18th century -- Translations into English'
+- GITenberg
+title: Socrates
+url: http://www.gutenberg.org/ebooks/4683
