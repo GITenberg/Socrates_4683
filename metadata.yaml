@@ -1,11 +1,14 @@
 _repo: Socrates_4683
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Socrate. English
 contributor:
   translator:
     agent_name: Morlock, Frank J.
     gutenberg_agent_id: '1532'
     url: http://www.gutenberg.org/2009/agents/1532
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Voltaire
@@ -20,6 +23,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Voltaire
     - http://en.wikipedia.org/wiki/Voltaire
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4683#Socrates
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
